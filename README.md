@@ -26,9 +26,46 @@ I am continuously learning, exploring new technologies, and building practical p
 
 ## 🎓 Education  
 - **BCA - Bachelors of Computer Applications**  
-  *St. Jpseph's College, Bangalore, Karnataka (2013 – 2016)*
+  *St. Joseph's College, Bangalore, Karnataka (2013 – 2016)*
+
+  **Data Analytics course**  
+  *Rows & Columns, Kochi*
 
 
+## 💼 Professional Experience
+
+### Freelance Data Analytics
+
+**Michael & Co. Event Planners**
+- Developed interactive Excel dashboards to track key business metrics.
+- Automated reports to improve business performance monitoring.
+
+**Cordial Bar**
+- Built monthly Power BI reports to track key business metrics.
+- Automated manual reporting processes to streamline operations.
+- Improved data accessibility for better operational tracking.
+
+**Carmel Marine Engineering Works**
+- Developed weekly and monthly Power BI reports based on business requirements.
+- Presented business insights to support performance monitoring and decision-making.
+  
+---
+
+### Account / Finance Manager · 2025 – 2026
+**Carmel Marine Engineering Works, Kochi, India**
+- Managed invoices, quotations, payments, and cash flow.
+- Maintained vendor payment records and project financial documentation.
+- Supported budgeting, cost tracking, and financial analysis.
+- Conducted financial checks and reconciliations to ensure data accuracy.
+
+---
+
+### Senior Process Associate & Finance Processor · 2017 – 2024
+**Biipbyte Technologies Pvt. Ltd., Bangalore, India**
+- Coordinated with Singapore headquarters on audit projects and confidential assignments, maintaining 100% compliance.
+- Prepared weekly and monthly operational and financial reports for international stakeholders.
+- Managed invoice processing, payment tracking, reconciliations, and data audits.
+- Developed SOPs, monitored SLA/KPI performance, and supported process improvement and team management.
   
 
 
