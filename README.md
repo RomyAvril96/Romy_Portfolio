@@ -3,7 +3,7 @@
 **Data Analyst - Power BI, SQL, Python, Tableau - Transforming Raw Data to Real Insights**
 
 
-![image](Dashboard.png)
+![image](CEO_Dashboard.png)
 
 
 [LinkedIn](https://www.linkedin.com/in/romyavril/)
