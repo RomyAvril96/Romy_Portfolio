@@ -28,7 +28,7 @@ I am continuously learning, exploring new technologies, and building practical p
 - **BCA - Bachelors of Computer Applications**  
   *St. Joseph's College, Bangalore, Karnataka (2013 – 2016)*
 
-  **Data Analytics course**  
+- **Data Analytics course**  
   *Rows & Columns, Kochi*
 
 
@@ -66,6 +66,52 @@ I am continuously learning, exploring new technologies, and building practical p
 - Prepared weekly and monthly operational and financial reports for international stakeholders.
 - Managed invoice processing, payment tracking, reconciliations, and data audits.
 - Developed SOPs, monitored SLA/KPI performance, and supported process improvement and team management.
+
+
+  ## 🧠 Tools & Skills  
+![Power BI](https://img.shields.io/badge/-Power%20BI-239120?logo=Power-BI&logoColor=white) 
+![MS Excel](https://img.shields.io/badge/-Excel-217346?logo=Microsoft-Excel&logoColor=white) 
+![SQL](https://img.shields.io/badge/-SQL-CC2927?logo=MySQL&logoColor=white) 
+![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=Tableau&logoColor=white) 
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white)  
+
+---
+
+## 🎯 Interests  
+- 📊 Dashboard Design  
+- 📸 Photography & Video Editing
+- 🎬 Movies & 🎒 Traveling  
+
+---
+
+## 📫 Contact Details  
+*Let’s connect and see how we can make a difference together!*  
+
+<table>
+  <tbody>
+    <tr>
+      <td>📧</td>
+      <td><a href="mailto:avrilaugustine1996@gmailcom">avrilaugustine1996@gmail.com</a></td>
+    </tr>
+    <tr>
+      <td>📞</td>
+      <td>(+91) 901-941-9205</td>
+    </tr>
+    <tr>
+      <td>📍</td>
+      <td>Kochi, Kerala, India</td>
+    </tr>
+    <tr>
+      <td>⬇️</td>
+      <td><a href="">Download my CV</a></td>
+    </tr>
+    <tr>
+      <td>🌐</td>
+      <td><a href="https://www.linkedin.com/in/romyavril/">Let’s connect on LinkedIn</a></td>
+    </tr>
+  </tbody>
+</table>
+
   
 
 
