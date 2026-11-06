@@ -28,9 +28,6 @@ I am continuously learning, exploring new technologies, and building practical p
 - **BCA - Bachelors of Computer Applications**  
   *St. Joseph's College, Bangalore, Karnataka (2013 – 2016)*
 
-- **Data Analytics course**  
-  *Rows & Columns, Kochi*
-
 
 ## 💼 Professional Experience
 
