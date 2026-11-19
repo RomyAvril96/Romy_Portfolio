@@ -42,7 +42,7 @@ I am continuously learning, exploring new technologies, and building practical p
 
 ---
 
-### Freelance Data Analytics 2025 - Present
+### Freelance Data Analytics | 2025 - Present
 
 **Michael & Co. Event Planners**
 - Developed interactive Excel dashboards to track key business metrics.
@@ -59,7 +59,7 @@ I am continuously learning, exploring new technologies, and building practical p
   
 ---
 
-### Account / Finance Manager · 2024 – 2026
+### Account / Finance Manager | 2024 – 2026
 **Carmel Marine Engineering Works, Kochi, India**
 - Managed invoices, quotations, payments, and cash flow.
 - Maintained vendor payment records and project financial documentation.
@@ -68,7 +68,7 @@ I am continuously learning, exploring new technologies, and building practical p
 
 ---
 
-### Senior Process Associate & Finance Processor · 2017 – 2024
+### Senior Process Associate & Finance Processor | 2017 – 2024
 **Biipbyte Technologies Pvt. Ltd., Bangalore, India**
 - Coordinated with Singapore headquarters on audit projects and confidential assignments, maintaining 100% compliance.
 - Prepared weekly and monthly operational and financial reports for international stakeholders.
