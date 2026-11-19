@@ -64,6 +64,7 @@ I am continuously learning, exploring new technologies, and building practical p
 - Managed invoice processing, payment tracking, reconciliations, and data audits.
 - Developed SOPs, monitored SLA/KPI performance, and supported process improvement and team management.
 
+---
 
   ## 🧠 Tools & Skills  
 ![Power BI](https://img.shields.io/badge/-Power%20BI-239120?logo=Power-BI&logoColor=white) 
@@ -71,6 +72,15 @@ I am continuously learning, exploring new technologies, and building practical p
 ![SQL](https://img.shields.io/badge/-SQL-CC2927?logo=MySQL&logoColor=white) 
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?logo=Tableau&logoColor=white) 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=Python&logoColor=white)  
+
+---
+
+## 📊 Featured Projects
+1. **EPL ETL Pipeline** – API-based ETL with Python, SQL Server warehouse and Power BI
+2. **CEO Command Center** – Power BI executive dashboard across 5 departments
+3. **Layered Data Warehouse** – Bronze/Silver/Gold architecture in SQL
+4. **Gym Data Web Scraping** – 800 scraped rows from Kerala, cleaned to 214 unique gyms
+5. **Event Management Dashboard** – Excel dashboard on 300 events, 8 KPIs, 7 charts
 
 ---
 
