@@ -27,11 +27,22 @@ I am continuously learning, exploring new technologies, and building practical p
 ## 🎓 Education  
 - **BCA - Bachelors of Computer Applications**  
   *St. Joseph's College, Bangalore, Karnataka (2013 – 2016)*
-
+  
 
 ## 💼 Professional Experience
 
-### Freelance Data Analytics
+### Data Analytics Intern | 2026 - Present
+**Rows & Columns, Kochi, Kerala** | Tools: Excel, Power BI, SQL, Python, Tableau
+
+- Handled end-to-end data preparation and analysis on real business datasets, from extraction and cleaning to validated reporting, using Excel, SQL and Python.
+- Developed interactive Power BI dashboards and reports using Power Query, data relationships and DAX measures, validating figures before they reached stakeholders.
+- Built an Excel student registration workbook with a data-entry form, Student Master, searchable student invoices and batch search, including fee, discount and total-fee fields.
+- Strengthened reporting accuracy through reconciliation and validation checks on source data before building reports.
+- Supported education and business consultancy work, scheduling training sessions for students and trainers and building dashboards and data-capture forms for smoother workflows.
+
+---
+
+### Freelance Data Analytics 2025 - Present
 
 **Michael & Co. Event Planners**
 - Developed interactive Excel dashboards to track key business metrics.
@@ -66,7 +77,7 @@ I am continuously learning, exploring new technologies, and building practical p
 
 ---
 
-  ## 🧠 Tools & Skills  
+  ## 🛠️ Tools & Skills  
 ![Power BI](https://img.shields.io/badge/-Power%20BI-239120?logo=Power-BI&logoColor=white) 
 ![MS Excel](https://img.shields.io/badge/-Excel-217346?logo=Microsoft-Excel&logoColor=white) 
 ![SQL](https://img.shields.io/badge/-SQL-CC2927?logo=MySQL&logoColor=white) 
@@ -80,7 +91,7 @@ I am continuously learning, exploring new technologies, and building practical p
 2. **CEO Command Center** – Power BI executive dashboard across 5 departments
 3. **Layered Data Warehouse** – Bronze/Silver/Gold architecture in SQL
 4. **Gym Data Web Scraping** – 800 scraped rows from Kerala, cleaned to 214 unique gyms
-5. **Event Management Dashboard** – Excel dashboard on 300 events, 8 KPIs, 7 charts
+5. **Event Management Dashboard** – Excel dashboard
 
 ---
 
