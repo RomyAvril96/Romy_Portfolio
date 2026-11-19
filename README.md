@@ -1,6 +1,6 @@
 # Hi, I'm Romy Avril Augustine 👋
 
-**Data Analyst - Power BI, SQL, Python, Tableau - Transforming Raw Data to Real Insights**
+**Data Analyst - Excel, Power BI, SQL, Python, Tableau - Transforming Raw Data to Real Insights**
 
 
 ![image](CEO_Dashboard.png)
@@ -48,7 +48,7 @@ I am continuously learning, exploring new technologies, and building practical p
   
 ---
 
-### Account / Finance Manager · 2025 – 2026
+### Account / Finance Manager · 2024 – 2026
 **Carmel Marine Engineering Works, Kochi, India**
 - Managed invoices, quotations, payments, and cash flow.
 - Maintained vendor payment records and project financial documentation.
