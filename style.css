@@ -1,0 +1,65 @@
+html, body, #root { margin: 0; min-height: 100%; }
+body { background: #07130f; }
+.rp-page { --bg: #07130f; --card: #0d1f19; --line: #1b3a2f; --ink: #eef5f1; --ink2: #9db5aa; --accent: #2ee59d; --accent2: #f2c14e;
+  background: radial-gradient(1200px 500px at 85% -10%, rgba(46,229,157,.14), transparent 60%), var(--bg);
+  color: var(--ink); font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; font-size: 16px; line-height: 1.6; -webkit-font-smoothing: antialiased; }
+.rp-page * { box-sizing: border-box; }
+.rp-page :where(h1, h2, h3) { font-family: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, "Times New Roman", serif; font-weight: 600; margin: 0; letter-spacing: -0.01em; line-height: 1.15; }
+.rp-page :where(p) { margin: 0; }
+.rp-page :where(a) { color: inherit; }
+.rp-wrap { width: 100%; max-width: 1040px; margin: 0 auto; padding: 0 22px; }
+.rp-hero { padding: 56px 0 28px; }
+.rp-hero-grid { display: grid; gap: 32px; align-items: center; }
+.rp-portrait { order: -1; justify-self: start; }
+.rp-portrait img { display: block; width: 132px; height: 132px; object-fit: cover; object-position: 50% 20%; border-radius: 50%; border: 3px solid var(--accent); box-shadow: 0 0 0 8px rgba(46,229,157,.12); }
+.rp-eyebrow { color: var(--accent); font-weight: 600; letter-spacing: .08em; text-transform: uppercase; font-size: 13px; margin-bottom: 14px; }
+.rp-name { font-size: clamp(40px, 11vw, 76px); }
+.rp-name span { color: var(--accent); }
+.rp-lead { margin-top: 20px; font-size: 18px; color: var(--ink2); max-width: 36em; }
+.rp-actions { display: flex; flex-wrap: wrap; gap: 10px; margin-top: 26px; }
+.rp-actions-center { justify-content: center; }
+.rp-btn { display: inline-flex; align-items: center; justify-content: center; min-height: 46px; padding: 0 20px; border: 1px solid var(--line); border-radius: 999px; text-decoration: none; font-weight: 600; font-size: 15px; background: rgba(255,255,255,.03); color: var(--ink); overflow-wrap: anywhere; text-align: center; }
+.rp-btn-primary { background: var(--accent); border-color: var(--accent); color: #04130d; }
+.rp-tools { margin-top: 22px; color: var(--ink2); font-size: 14px; }
+.rp-stats { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-top: 24px; margin-bottom: 8px; }
+.rp-stat { border: 1px solid var(--line); border-radius: 16px; padding: 16px; background: var(--card); display: flex; flex-direction: column; gap: 4px; }
+.rp-stat strong { font-family: "Iowan Old Style", Palatino, Georgia, serif; font-size: 34px; color: var(--accent); line-height: 1; }
+.rp-stat span { color: var(--ink2); font-size: 14px; line-height: 1.35; }
+.rp-section { margin-top: 56px; }
+.rp-section h2 { font-size: 30px; margin-bottom: 22px; display: flex; align-items: center; gap: 14px; }
+.rp-section h2::after { content: ""; flex: 1; height: 1px; background: var(--line); }
+.rp-about { font-size: 18px; color: var(--ink); max-width: 44em; }
+.rp-card { background: var(--card); border: 1px solid var(--line); border-radius: 18px; padding: 22px; }
+.rp-card h3 { font-size: 22px; }
+.rp-skills { display: grid; gap: 14px; }
+.rp-chips { list-style: none; padding: 0; margin: 14px 0 0; display: flex; flex-wrap: wrap; gap: 8px; }
+.rp-chips li { padding: 5px 12px; border-radius: 999px; background: rgba(46,229,157,.1); border: 1px solid rgba(46,229,157,.25); color: #c9f5e3; font-size: 14px; line-height: 1.4; }
+.rp-chips-sm { margin: 12px 0 14px; }
+.rp-chips-sm li { font-size: 13px; padding: 3px 10px; }
+.rp-projects { display: grid; gap: 18px; }
+.rp-project { display: flex; flex-direction: column; }
+.rp-project-head { display: flex; justify-content: space-between; align-items: baseline; margin-bottom: 8px; }
+.rp-num { font-family: "Iowan Old Style", Palatino, Georgia, serif; font-size: 20px; color: var(--accent2); }
+.rp-when { color: var(--ink2); font-size: 14px; white-space: nowrap; }
+.rp-project > p { color: var(--ink2); }
+.rp-shot { width: 100%; height: auto; border-radius: 12px; border: 1px solid var(--line); margin-top: 16px; display: block; }
+.rp-metrics { display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; margin-top: 18px; padding: 14px 0; border-top: 1px solid var(--line); border-bottom: 1px solid var(--line); }
+.rp-metrics div { display: flex; flex-direction: column; gap: 2px; min-width: 0; }
+.rp-metrics strong { font-family: "Iowan Old Style", Palatino, Georgia, serif; font-size: 24px; color: var(--accent); line-height: 1.1; }
+.rp-metrics span { font-size: 12px; color: var(--ink2); line-height: 1.3; }
+.rp-points { margin: 14px 0 0; padding-left: 18px; color: var(--ink); font-size: 15px; }
+.rp-points li { margin-bottom: 6px; }
+.rp-points li::marker { color: var(--accent); }
+.rp-timeline { list-style: none; margin: 0; padding: 0 0 0 20px; border-left: 2px solid var(--line); display: grid; gap: 30px; }
+.rp-timeline li { position: relative; }
+.rp-timeline li::before { content: ""; position: absolute; left: -27px; top: 7px; width: 12px; height: 12px; border-radius: 50%; background: var(--accent); box-shadow: 0 0 0 4px var(--bg); }
+.rp-tl-head { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 4px 16px; align-items: baseline; }
+.rp-tl-head h3 { font-size: 21px; }
+.rp-org { color: var(--accent2); font-size: 15px; margin-top: 4px; }
+.rp-edu { display: flex; flex-wrap: wrap; justify-content: space-between; gap: 6px 16px; align-items: baseline; }
+.rp-contact { margin-top: 72px; padding: 56px 0 40px; text-align: center; border-top: 1px solid var(--line); background: radial-gradient(700px 300px at 50% 0%, rgba(46,229,157,.12), transparent 70%); }
+.rp-contact h2 { font-size: 38px; }
+.rp-contact p { color: var(--ink2); margin-top: 12px; }
+.rp-contact .rp-foot { margin-top: 40px; font-size: 13px; }
+@media (min-width: 640px) { .rp-stats { grid-template-columns: repeat(4, 1fr); } .rp-skills { grid-template-columns: repeat(3, 1fr); } .rp-projects { grid-template-columns: 1fr 1fr; } .rp-project:nth-child(3) { grid-column: 1 / -1; } }
+@media (min-width: 820px) { .rp-hero { padding-top: 88px; } .rp-hero-grid { grid-template-columns: 1.6fr 1fr; gap: 56px; } .rp-portrait { order: 0; justify-self: end; } .rp-portrait img { width: 300px; height: 340px; border-radius: 28px; object-position: 50% 15%; } .rp-wrap { padding: 0 32px; } }
