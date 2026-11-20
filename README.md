@@ -109,7 +109,7 @@ I am continuously learning, exploring new technologies, and building practical p
   <tbody>
     <tr>
       <td>📧</td>
-      <td><a href="mailto:avrilaugustine1996@gmailcom">avrilaugustine1996@gmail.com</a></td>
+      <td><a href="mailto:insightswithromy@gmail.com">insightswithromy@gmail.com</a></td>
     </tr>
     <tr>
       <td>📞</td>
